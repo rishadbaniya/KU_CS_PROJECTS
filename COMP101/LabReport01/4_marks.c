@@ -5,7 +5,6 @@
 // I'll assume full marks for each subject as 100
 
 #include <stdio.h>
-#include <math.h>
 
 int main(){
     float phy, chem, math, total_obtained, perc;
